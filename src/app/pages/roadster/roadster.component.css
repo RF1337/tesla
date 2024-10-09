@@ -1,0 +1,23 @@
+.bg-roadster {
+    background-image: url('/assets/tesla-bg.jpg');
+  }
+  
+.bg-roadster-gray {
+    background-image: url('/assets/tesla-bg-gray.png');
+}
+  
+.bg-roadster-white {
+    background-image: url('/assets/tesla-bg.jpg');
+}
+  
+.bg-roadster-red {
+    background-image: url('/assets/tesla-bg.jpg');
+}
+  
+.bg-roadster-blue {
+    background-image: url('/assets/tesla-bg.jpg');
+}
+  
+.bg-roadster-green {
+    background-image: url('/assets/tesla-bg.jpg');
+}
